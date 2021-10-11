@@ -2,6 +2,6 @@ pydantic==1.8.2
 fastapi==0.70.0
 pymongo==3.12.0
 gunicorn==20.1.0
-starlette==0.12.9
+starlette==0.16.0
 uvicorn==0.15.0
 websockets==8.0.2
